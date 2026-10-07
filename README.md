@@ -6,7 +6,7 @@ Systems & Data Analyst interview. Built from Massachusetts DESE public
 enrollment profiles with Python/matplotlib visualizations.
 
 > Portfolio evidence — an interview work product, not a placement claim.
-> The role was not started due to a family emergency.
+> The role was not started — I was ghosted after receiving a written job offer.
 
 ## Headline findings (from the deck's data tables)
 
